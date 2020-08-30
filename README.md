@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi, name Muhamad Zharif Bin Kosing,
+Taking Bachelor Software Programming at UniKL MIIT
